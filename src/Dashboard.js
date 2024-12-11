@@ -13,7 +13,7 @@ function Dashboard({ data, setData }) {
         </div>
       ) : (
         <p style={{ textAlign: "center", marginTop: 20 }}>
-          Please upload a JSON file to begin.
+          Start with json.
         </p>
       )}
     </div>

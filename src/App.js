@@ -3,7 +3,7 @@ import Dashboard from './Dashboard';
 import './App.css';
 
 function App() {
-  const [data, setData] = useState(null); // Store uploaded data here
+  const [data, setData] = useState(null);
 
   return (
     <div className="App">
